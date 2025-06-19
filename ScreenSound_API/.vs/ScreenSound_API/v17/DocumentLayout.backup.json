@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jvds_\\OneDrive\\Desktop\\ScreenSound_API\\ScreenSound_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7423ECB-E6AC-490D-9DD8-1E337145A76F}|ScreenSound_API\\ScreenSound_API.csproj|c:\\users\\jvds_\\onedrive\\desktop\\screensound_api\\screensound_api\\screensound_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7423ECB-E6AC-490D-9DD8-1E337145A76F}|ScreenSound_API\\ScreenSound_API.csproj|solutionrelative:screensound_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7423ECB-E6AC-490D-9DD8-1E337145A76F}|ScreenSound_API\\ScreenSound_API.csproj|c:\\users\\jvds_\\onedrive\\desktop\\screensound_api\\screensound_api\\screensound_api\\filters\\linq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7423ECB-E6AC-490D-9DD8-1E337145A76F}|ScreenSound_API\\ScreenSound_API.csproj|solutionrelative:screensound_api\\filters\\linq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7423ECB-E6AC-490D-9DD8-1E337145A76F}|ScreenSound_API\\ScreenSound_API.csproj|c:\\users\\jvds_\\onedrive\\desktop\\screensound_api\\screensound_api\\screensound_api\\models\\music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7423ECB-E6AC-490D-9DD8-1E337145A76F}|ScreenSound_API\\ScreenSound_API.csproj|solutionrelative:screensound_api\\models\\music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7423ECB-E6AC-490D-9DD8-1E337145A76F}|ScreenSound_API\\ScreenSound_API.csproj|c:\\users\\jvds_\\onedrive\\desktop\\screensound_api\\screensound_api\\screensound_api\\models\\preferredmusics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7423ECB-E6AC-490D-9DD8-1E337145A76F}|ScreenSound_API\\ScreenSound_API.csproj|solutionrelative:screensound_api\\models\\preferredmusics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7423ECB-E6AC-490D-9DD8-1E337145A76F}|ScreenSound_API\\ScreenSound_API.csproj|c:\\users\\jvds_\\onedrive\\desktop\\screensound_api\\screensound_api\\screensound_api\\filters\\linqorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7423ECB-E6AC-490D-9DD8-1E337145A76F}|ScreenSound_API\\ScreenSound_API.csproj|solutionrelative:screensound_api\\filters\\linqorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LinqOrder.cs",
+              "DocumentMoniker": "C:\\Users\\jvds_\\OneDrive\\Desktop\\ScreenSound_API\\ScreenSound_API\\ScreenSound_API\\Filters\\LinqOrder.cs",
+              "RelativeDocumentMoniker": "ScreenSound_API\\Filters\\LinqOrder.cs",
+              "ToolTip": "C:\\Users\\jvds_\\OneDrive\\Desktop\\ScreenSound_API\\ScreenSound_API\\ScreenSound_API\\Filters\\LinqOrder.cs",
+              "RelativeToolTip": "ScreenSound_API\\Filters\\LinqOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T20:35:35.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LINQ.cs",
+              "DocumentMoniker": "C:\\Users\\jvds_\\OneDrive\\Desktop\\ScreenSound_API\\ScreenSound_API\\ScreenSound_API\\Filters\\LINQ.cs",
+              "RelativeDocumentMoniker": "ScreenSound_API\\Filters\\LINQ.cs",
+              "ToolTip": "C:\\Users\\jvds_\\OneDrive\\Desktop\\ScreenSound_API\\ScreenSound_API\\ScreenSound_API\\Filters\\LINQ.cs",
+              "RelativeToolTip": "ScreenSound_API\\Filters\\LINQ.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T20:23:08.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Music.cs",
+              "DocumentMoniker": "C:\\Users\\jvds_\\OneDrive\\Desktop\\ScreenSound_API\\ScreenSound_API\\ScreenSound_API\\Models\\Music.cs",
+              "RelativeDocumentMoniker": "ScreenSound_API\\Models\\Music.cs",
+              "ToolTip": "C:\\Users\\jvds_\\OneDrive\\Desktop\\ScreenSound_API\\ScreenSound_API\\ScreenSound_API\\Models\\Music.cs",
+              "RelativeToolTip": "ScreenSound_API\\Models\\Music.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowB0AAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T19:55:45.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PreferredMusics.cs",
+              "DocumentMoniker": "C:\\Users\\jvds_\\OneDrive\\Desktop\\ScreenSound_API\\ScreenSound_API\\ScreenSound_API\\Models\\PreferredMusics.cs",
+              "RelativeDocumentMoniker": "ScreenSound_API\\Models\\PreferredMusics.cs",
+              "ToolTip": "C:\\Users\\jvds_\\OneDrive\\Desktop\\ScreenSound_API\\ScreenSound_API\\ScreenSound_API\\Models\\PreferredMusics.cs",
+              "RelativeToolTip": "ScreenSound_API\\Models\\PreferredMusics.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwCcAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T21:28:23.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jvds_\\OneDrive\\Desktop\\ScreenSound_API\\ScreenSound_API\\ScreenSound_API\\Program.cs",
+              "RelativeDocumentMoniker": "ScreenSound_API\\Program.cs",
+              "ToolTip": "C:\\Users\\jvds_\\OneDrive\\Desktop\\ScreenSound_API\\ScreenSound_API\\ScreenSound_API\\Program.cs",
+              "RelativeToolTip": "ScreenSound_API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T19:36:43.866Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
